@@ -38,4 +38,4 @@ You can find my projects below!
     <!-- Alternative Curseforge Image <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"> -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=tokyonight">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=midnight-purple">
