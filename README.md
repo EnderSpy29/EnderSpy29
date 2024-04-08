@@ -39,3 +39,10 @@ You can find my projects below!
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=midnight-purple">
+
+<p align='center'>
+  💻 The Build<br/><br/>
+  <img src="https://img.shields.io/badge/Windows%2010-%239745F5?style=for-the-badge&logo=windows10&label=OS&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/Ryzen%205%205600X-%239745F5?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/32GB-%239745F5?style=for-the-badge&logo=corsair&label=Ram&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/Radeon%20RX%207600-%239745F5?style=for-the-badge&logo=amd&label=GPU&labelColor=%23000000" />
