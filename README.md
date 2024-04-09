@@ -1,5 +1,7 @@
 <h1 align='center'>
 Ender, Reporting For Duty
+<p align='center'>
+  <img src="https://yt3.googleusercontent.com/Fb9Lozk4lh3GoZRtxY7mlqUbhL9x8F49E5onBrDYbnOrIXfFYlEdx59QOqf5_pNoUM2Mk_eS" />
 </h1>
 
 <p align='center'>
@@ -46,3 +48,4 @@ You can find my projects below!
   <img src="https://img.shields.io/badge/Ryzen%205%205600X-%239745F5?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/32GB-%239745F5?style=for-the-badge&logo=corsair&label=Ram&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/Radeon%20RX%207600-%239745F5?style=for-the-badge&logo=amd&label=GPU&labelColor=%23000000" />
+
