@@ -1,8 +1,8 @@
 <h1 align='center'>
 Ender, Reporting For Duty
+</h1>
 <p align='center'>
   <img alt="youtube-banner" height="" width="" src="https://i.imgur.com/tA2VUBB.png" />
-</h1>
 
 <p align='center'>
   Check Out My Socials
