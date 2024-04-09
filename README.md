@@ -1,7 +1,7 @@
 <h1 align='center'>
 Ender, Reporting For Duty
 <p align='center'>
-  <img src="https://yt3.googleusercontent.com/Fb9Lozk4lh3GoZRtxY7mlqUbhL9x8F49E5onBrDYbnOrIXfFYlEdx59QOqf5_pNoUM2Mk_eS" />
+  <img alt="youtube-banner" height="" width="" src="https://i.imgur.com/tA2VUBB.png" />
 </h1>
 
 <p align='center'>
