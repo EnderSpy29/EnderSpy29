@@ -27,19 +27,6 @@ Ender, Reporting For Duty
 </a>&nbsp;&nbsp;
 
 <p align='center'>
-You can find my projects below!
-
-<p align='center'>
-
-  <a href="https://modrinth.com/user/EnderSpy29">
-    <img alt="modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg">
-    <!-- Alternative Modrinth Image <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> -->
-</a>&nbsp;&nbsp;
-  <a href="https://www.curseforge.com/members/enderspy29/projects">
-    <img alt="curseforge" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg">
-    <!-- Alternative Curseforge Image <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"> -->
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=midnight-purple">
 
 <p align='center'>
