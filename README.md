@@ -5,6 +5,12 @@ Ender, Reporting For Duty
   <img alt="youtube-banner" height="" width="" src="https://i.imgur.com/tA2VUBB.png" />
 
 <p align='center'>
+  Hello!
+- My name is Aleks
+- I am studying backend programming
+- I enjoy applying my skills to solving problems, not problems like "What is beauty?" I solve practical problems, for instance: how do i speed up this process so i can play more factorio?
+
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=midnight-purple">
 
 <p align='center'>
