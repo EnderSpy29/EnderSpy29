@@ -6,6 +6,7 @@ Ender, Reporting For Duty
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnderSpy29&show_icons=true&theme=midnight-purple">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSpy29)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
   💻 The Build<br/><br/>
