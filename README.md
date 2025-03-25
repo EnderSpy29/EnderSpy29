@@ -1,10 +1,10 @@
 <img alt="banner" height="" width="" src="https://raw.githubusercontent.com/EnderSpy29/EnderSpy29/refs/heads/main/Resources/BannerWidescreen.png" />
-```
+<pre>
 Hello!
 - My name is Aleks
 - I am studying backend programming
 - I enjoy applying my skills to solving problems, not problems like "What is beauty?" I solve practical problems, for instance: how do i speed up this process so i can play more factorio?
-```
+</pre>
 
 ![EnderSpy29's Stats](https://github-readme-stats.vercel.app/api?username=EnderSpy29&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
 
